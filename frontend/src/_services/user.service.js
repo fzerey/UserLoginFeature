@@ -1,4 +1,3 @@
-import { handleError } from 'vue';
 import { authHeader } from '../_helpers';
 
 export const userService = {
