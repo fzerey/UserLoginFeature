@@ -2,8 +2,8 @@ spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: #database url
-    username: #database username
-    password: #database password
+    username: #username
+    password: #password
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
